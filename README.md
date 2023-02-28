@@ -6,4 +6,5 @@ This repo tries to solve the problem as follows;
 + No occupant should wait in line for more than 30mins
 + poop takes 15mins
 + pee takes 3 mins
-+
+
+## An algorithim that optimizes bathroom usage
